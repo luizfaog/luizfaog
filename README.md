@@ -3,10 +3,10 @@
   <p align="center">Estudo Análise e Desenvolvimento De Sistemas na <a href="https://cotemig.com.br/"><i>Faculdade COTEMIG</i></a>
  </div>
 
-<div align="center">
+
   <a href="https://github.com/luizfaog">
-  <img height="155em" src="https://github-readme-stats.vercel.app/api?username=luizfaog&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizfaog&layout=compact&langs_count=7&theme=dark"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=luizfaog&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizfaog&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
   <div> 
